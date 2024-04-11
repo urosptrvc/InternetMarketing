@@ -1,0 +1,112 @@
+{
+    "socialmedias": [
+        {
+            "name": "Facebook",
+            "logo": "https://www.facebook.com/images/fb_icon_325x325.png",
+            "monthly_users": "3050 Milions",
+            "active_users_daily": "1930 Milions",
+            "current_popularity": "High",
+            "founded": "2004 - Cambridge, MA, USA",
+            "total_revenue": "134.9 Bilions",
+            "link": "https://www.facebook.com/",
+            "color": "#3b5998",
+            "lighter_color": "#4a6aa1"
+        },        
+        {
+            "name": "Instagram",
+            "logo": "https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png",
+            "monthly_users": "2400 Milions",
+            "active_users_daily": "500 Milions",
+            "current_popularity": "High",
+            "founded": "2010 - San Francisco, CA, USA",
+            "total_revenue": "5.06 Bilions",
+            "link": "https://www.instagram.com/",
+            "color": "#C13584",
+            "lighter_color": "#d3589c"
+        },
+        {
+            "name": "TikTok",
+            "logo": "https://cdn.pixabay.com/photo/2021/06/15/12/28/tiktok-6338430_1280.png",
+            "monthly_users": "1000 Milions",
+            "active_users_daily": "1100 Milions",
+            "current_popularity": "High",
+            "founded": "2016 - Beijing, China",
+            "total_revenue": "9.4 Bilions",
+            "link": "https://www.tiktok.com/",
+            "color": "#69C9D0",
+            "lighter_color": "#86d7dd"
+        },
+        {
+            "name": "Youtube",
+            "logo": "data:image/png;base64,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",
+            "monthly_users": "2700 Milions",
+            "active_users_daily": "122 Milions",
+            "current_popularity": "High",
+            "founded": "2005 - San Mateo, CA, USA",
+            "total_revenue": "30 Bilions",
+            "link": "https://www.youtube.com/",
+            "color": "#FF0000",
+            "lighter_color": "#ff3333"
+        },
+        {
+            "name": "Twitter",
+            "logo": "https://static.dezeen.com/uploads/2012/06/dezeen_twitter-bird.gif",
+            "monthly_users": "530 Milions",
+            "active_users_daily": "240 Milions",
+            "current_popularity": "High",
+            "founded": "2006 - San Francisco, CA, USA",
+            "total_revenue": "3.72 Bilions",
+            "link": "https://twitter.com/",
+            "color": "#1DA1F2",
+            "lighter_color": "#5bbdff"
+        },
+        {
+            "name": "Linkedin",
+            "logo": "https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png",
+            "monthly_users": "310 Milions",
+            "active_users_daily": "135 Milions",
+            "current_popularity": "High",
+            "founded": "2002 - Mountain View, CA, USA",
+            "total_revenue": "15.14 Bilions",
+            "link": "https://www.linkedin.com/",
+            "color": "#0077B5",
+            "lighter_color": "#429fe3"
+        },
+        {
+            "name": "Snapchat",
+            "logo": "https://1000logos.net/wp-content/uploads/2017/08/Snapchat-Logo-2013.png",
+            "monthly_users": "800 Milions",
+            "active_users_daily": "405 Milions",
+            "current_popularity": "High",
+            "founded": "2011 - Venice, CA, USA",
+            "total_revenue": "4.6 Bilions",
+            "link": "https://www.snapchat.com/",
+            "color": "#dbd900",
+            "lighter_color": "#fffc4d"
+        },
+        {
+            "name": "Pinterest",
+            "logo": "data:image/png;base64,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",
+            "monthly_users": "442 Milions",
+            "active_users_daily": "317 Milions",
+            "current_popularity": "High",
+            "founded": "2010 - San Francisco, CA, USA",
+            "total_revenue": "3.05 Bilions",
+            "link": "https://www.pinterest.com/",
+            "color": "#BD081C",
+            "lighter_color": "#ff2d4c"
+        },
+        {
+            "name": "Reddit",
+            "logo": "https://www.redditinc.com/assets/images/site/reddit-logo.png",
+            "monthly_users": "430 Milions",
+            "active_users_daily": "52 Milions",
+            "current_popularity": "High",
+            "founded": "2005 - Medford, MA, USA",
+            "total_revenue": "0.1 Bilions",
+            "link": "https://www.reddit.com/",
+            "color": "#FF4500",
+            "lighter_color": "#ff7f33"
+        }                
+    ]
+}
